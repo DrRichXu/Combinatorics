@@ -32,15 +32,46 @@
     </p>
 	
 <h3>Writing</h3>
+
  <div class="items">      
         <article class="item">   
-  Erdos-Falconer distance problem under Hamming metric in vector spaces over finite fields
+  <h4>On the Turan number of 1-subdivision of $K_{3,t}$</h4>
+    <span>
+      (with       
+        <a href="https://www.researchgate.net/profile/Tao_Zhang272" target="_blank">Tao Zhang</a>,  
+        <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
+    </span>
+  <p>
+    <p> In this work,  In this paper, we consider the  Erdos-Falconer distance problem under Hamming distance, which is the most important metric in coding theory. We show a non-trivial bound for the threshold on the cardinality |I| so that ∆(I) contains a positive proportion of the whole distance set.</p>
+  <div class="item__primary-actions">
+    <span><a href="1214.pdf" target="_blank">PDF</a></span>  
+</div>
+  </p>
+  <p class="item__secondary-actions">
+    
+  </p>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+ <div class="items">      
+        <article class="item">   
+  <h4>Erdos-Falconer distance problem under Hamming metric in vector spaces over finite fields</h4>
     <span>
       (with         
         <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
     </span>
   <p>
-    <p> In this work,  In this paper, we consider the  Erdos-Falconer distance problem under Hamming distance, which is the most important metric in coding theory. We show a non-trivial bound for the threshold on the cardinality |I| so that ∆(I) contains a positive proportion of the whole distance set.</p>
+    <p> In this paper, we study the Turan number of 1-subdivision of $K_{3,t}$. More precisely, we provide
+an explicit construction $K_{3,30}$-free graph, which makes progress on the known estimation for the smallest value of t concerning a problem posed by Conlon, Janzer and Lee.</p>
   <div class="item__primary-actions">
     <span><a href="Erdos_Falconer_distance_problem_under_Hamming_metric.pdf" target="_blank">PDF</a></span>  
 </div>
@@ -53,7 +84,7 @@
 
    <div class="items">      
         <article class="item">   
-  3-uniform hypergraphs with few Berge paths of length three between any two vertices
+  <h4>3-uniform hypergraphs with few Berge paths of length three between any two vertices</h4>
     <span>
       (with       
         <a href="https://www.researchgate.net/profile/Tao_Zhang272" target="_blank">Tao Zhang</a>,  
@@ -72,7 +103,7 @@
 
 <div class="items">      
         <article class="item">   
-  Some tight lower bounds for Turán problems via constructions of multi-hypergraphs
+  <h4>Some tight lower bounds for Turán problems via constructions of multi-hypergraphs</h4>
     <span>
       (with       
         <a href="https://www.researchgate.net/profile/Tao_Zhang272" target="_blank">Tao Zhang</a>,  
@@ -91,7 +122,7 @@
 
 <div class="items">      
         <article class="item">  
-  Some extremal results on hypergraph Turán problems
+  <h4>Some extremal results on hypergraph Turán problems</h4>
     <span>
       (with       
         <a href="https://www.researchgate.net/profile/Tao_Zhang272" target="_blank">Tao Zhang</a>,  
@@ -112,7 +143,7 @@
         <article class="item">  
   
 
-  On vertex-induced weighted Turán problems
+  <h4>On vertex-induced weighted Turán problems</h4>
     <span>
       (with       
         <a href="yifanjing.wordpress.com" target="_blank">Yifan Jing</a>,  
@@ -131,7 +162,7 @@
 
 <div class="items">     
         <article class="item">  
- New Theoretical Bounds and Constructions of Permutation Codes under Block Permutation Metric
+<h4> New Theoretical Bounds and Constructions of Permutation Codes under Block Permutation Metric</h4>
     <span>
       (with       
         <a href="https://www.researchgate.net/profile/Yiwei_Zhang15" target="_blank">Yiwei Zhang</a>,  
