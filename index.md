@@ -42,7 +42,8 @@
         <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
     </span>
   <p>
-    <p> In this work,  In this paper, we consider the  Erdos-Falconer distance problem under Hamming distance, which is the most important metric in coding theory. We show a non-trivial bound for the threshold on the cardinality |I| so that ∆(I) contains a positive proportion of the whole distance set.</p>
+    <p>In this paper, we study the Turan number of 1-subdivision of $K_{3,t}$. More precisely, we provide
+an explicit construction $K_{3,30}$-free graph, which makes progress on the known estimation for the smallest value of t concerning a problem posed by Conlon, Janzer and Lee. </p>
   <div class="item__primary-actions">
     <span><a href="1214.pdf" target="_blank">PDF</a></span>  
 </div>
@@ -70,8 +71,7 @@
         <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
     </span>
   <p>
-    <p> In this paper, we study the Turan number of 1-subdivision of $K_{3,t}$. More precisely, we provide
-an explicit construction $K_{3,30}$-free graph, which makes progress on the known estimation for the smallest value of t concerning a problem posed by Conlon, Janzer and Lee.</p>
+    <p> In this work,  In this paper, we consider the  Erdos-Falconer distance problem under Hamming distance, which is the most important metric in coding theory. We show a non-trivial bound for the threshold on the cardinality |I| so that ∆(I) contains a positive proportion of the whole distance set.</p>
   <div class="item__primary-actions">
     <span><a href="Erdos_Falconer_distance_problem_under_Hamming_metric.pdf" target="_blank">PDF</a></span>  
 </div>
