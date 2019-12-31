@@ -18,7 +18,7 @@
     </p>
    <h3> Research interests</h3>
     <p>
-      Extremal graph theory, Coding Theory<br>
+     Additive combinatorics, Extremal combinatorics, Coding Theory<br>
       A member of <a href="http://staff.ustc.edu.cn/~drzhangx/group-chn/default.html" target="_blank">Combinatorics and Information Theory</a>
     </p>
 <h3>Short CV</h3>
@@ -43,7 +43,7 @@
     </span>
   <p>
     <p>In this paper, we study the Turan number of 1-subdivision of $K_{3,t}$. More precisely, we provide
-an explicit construction $K_{3,30}$-free graph, which makes progress on the known estimation for the smallest value of t concerning a problem posed by Conlon, Janzer and Lee. </p>
+an explicit construction $K_{3,30}'$-free graph, which makes progress on the known estimation for the smallest value of t concerning a problem posed by Conlon, Janzer and Lee. </p>
   <div class="item__primary-actions">
     <span><a href="1214.pdf" target="_blank">PDF</a></span>  
 </div>
