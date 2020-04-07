@@ -15,12 +15,13 @@
     <p class="description">
       School of Mathematics Science<br>
       Capital Normal University
+	    A member of <a href="http://staff.ustc.edu.cn/~drzhangx/group-chn/default.html" target="_blank">Combinatorics and Information Theory</a><br>
+	 <a href="http://math.cnu.edu.cn//tzygg/yjsjy1/164993.htm" target="_blank">2019-2020 National Scholarship for Outstanding Doctor Student</a>  
     </p>
    <h3> Research interests</h3>
     <p>
      Additive combinatorics, Extremal combinatorics, Coding Theory<br>
-      A member of <a href="http://staff.ustc.edu.cn/~drzhangx/group-chn/default.html" target="_blank">Combinatorics and Information Theory</a><br>
-	 <a href="http://math.cnu.edu.cn//tzygg/yjsjy1/164993.htm" target="_blank">2019-2020 National Scholarship for Outstanding Doctor Student</a>   
+       
     </p>
 <h3>Short CV</h3>
     <p>
