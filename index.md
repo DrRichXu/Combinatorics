@@ -140,7 +140,9 @@ an explicit construction $K_{3,30}'$-free graph, which makes progress on the kno
         <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
     </span>
   <p>
-    <p> In this work, we use the random algebraic method to construct several multi-hypergraphs. </p>
+    <p> In this work, we use the random algebraic method to construct several multi-hypergraphs. There are three major ingredients. First, the random multi-hypergraph is the union of several random hypergraphs, which are defined by some bounded-degree random
+polynomials. Hence we can estimate the expectation of number of single edges and multiple edges, respectively. Second, due to the independence between different random hypergraphs, we can easily estimate the expectation of number of some structures, though the edges of such structures in multihypergraph are from distinct original random hypergraphs. The third ingredient is that, the random hypergraphs are defined by bounded-degree polynomials, we can define the bad structure in multi-hypergraph properly. Regarding the set of bad structures as variety and combining the Markov’s inequality, we can bound the expectation of
+number of the bad structures. </p>
  <div class="item__primary-actions">
     <span><a href="https://arxiv.org/pdf/1907.11909" target="_blank">arxiv:1907.11909</a></span>  
 </div>
@@ -159,7 +161,7 @@ an explicit construction $K_{3,30}'$-free graph, which makes progress on the kno
         <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
     </span>
   <p>
-    <p> In this work, we determine the Turan number of complete bipartite r-uniform hypergraphs. </p>
+    <p> In this work, we determine the Turan number of complete bipartite r-uniform hypergraphs. Moreover, we give a improved lower bound for the Turan number of complete 3-partite 3-uniform hypergraph K_{2,2,7}^{(3)} </p>
  <div class="item__primary-actions">
     <span><a href="https://arxiv.org/pdf/1905.01685" target="_blank">arxiv:1905.01685</a></span>  
 </div>
