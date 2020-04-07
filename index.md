@@ -20,6 +20,7 @@
     <p>
      Additive combinatorics, Extremal combinatorics, Coding Theory<br>
       A member of <a href="http://staff.ustc.edu.cn/~drzhangx/group-chn/default.html" target="_blank">Combinatorics and Information Theory</a>
+	 <a href="http://math.cnu.edu.cn//tzygg/yjsjy1/164993.htm" target="_blank">2019-2020 National Scholarship for Outstanding Doctor Student</a>   
     </p>
 <h3>Short CV</h3>
     <p>
@@ -33,12 +34,41 @@
 	
 <h3>Writing</h3>
 
+
+<div class="items">      
+        <article class="item">   
+  <h4>Color isomorphic even cycles and a related Ramsey problem</h4>
+    <span>
+      (with       
+        <a href="https://zhant220.github.io/homepage/" target="_blank">Tao Zhang</a>, 
+	    <a href="yifanjing.wordpress.com" target="_blank">Yifan Jing</a>,
+        <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
+    </span>
+  <p>
+    <p> In this work, we first study a new extremal problem recently posed by Conlon and Tyomkyn. Using algebraic properties of polynomials over finite fields, we give an explicit edge-coloring of a complete graph, such that we cannot find three vertex-disjoint color isomorphic cycles of length four. The methods we used in the edge-coloring may be of some independent interest. We also consider a related generalized Ramsey problem (bipartite version), we obtain some new lower bounds with a broad range of parameters.  </p>
+ <div class="item__primary-actions">
+    <span><a href="https://https://arxiv.org/pdf/2004.01932" target="_blank">arxiv:2004.01932</a></span>  
+</div>
+  </p>
+  <p class="item__secondary-actions">
+    
+  </p>
+</article>
+
+
+
+
+
+
+
+
+
  <div class="items">      
         <article class="item">   
   <h4>On the Turan number of 1-subdivision of $K_{3,t}$</h4>
     <span>
       (with       
-        <a href="https://www.researchgate.net/profile/Tao_Zhang272" target="_blank">Tao Zhang</a>,  
+        <a href="https://zhant220.github.io/homepage/" target="_blank">Tao Zhang</a>,  
         <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
     </span>
   <p>
@@ -87,7 +117,7 @@ an explicit construction $K_{3,30}'$-free graph, which makes progress on the kno
   <h4>3-uniform hypergraphs with few Berge paths of length three between any two vertices</h4>
     <span>
       (with       
-        <a href="https://www.researchgate.net/profile/Tao_Zhang272" target="_blank">Tao Zhang</a>,  
+        <a href="https://zhant220.github.io/homepage/" target="_blank">Tao Zhang</a>,  
         <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
     </span>
   <p>
@@ -106,7 +136,7 @@ an explicit construction $K_{3,30}'$-free graph, which makes progress on the kno
   <h4>Some tight lower bounds for Turán problems via constructions of multi-hypergraphs</h4>
     <span>
       (with       
-        <a href="https://www.researchgate.net/profile/Tao_Zhang272" target="_blank">Tao Zhang</a>,  
+        <a href="https://zhant220.github.io/homepage/" target="_blank">Tao Zhang</a>,  
         <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
     </span>
   <p>
@@ -125,7 +155,7 @@ an explicit construction $K_{3,30}'$-free graph, which makes progress on the kno
   <h4>Some extremal results on hypergraph Turán problems</h4>
     <span>
       (with       
-        <a href="https://www.researchgate.net/profile/Tao_Zhang272" target="_blank">Tao Zhang</a>,  
+        <a href="https://zhant220.github.io/homepage/" target="_blank">Tao Zhang</a>,  
         <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
     </span>
   <p>
