@@ -47,7 +47,7 @@
   <p>
     <p> In this work, we first study a new extremal problem recently posed by Conlon and Tyomkyn. Using algebraic properties of polynomials over finite fields, we give an explicit edge-coloring of a complete graph, such that we cannot find three vertex-disjoint color isomorphic cycles of length four. The methods we used in the edge-coloring may be of some independent interest. We also consider a related generalized Ramsey problem (bipartite version), we obtain some new lower bounds with a broad range of parameters.  </p>
  <div class="item__primary-actions">
-    <span><a href="https://https://arxiv.org/pdf/2004.01932" target="_blank">arxiv:2004.01932</a></span>  
+    <span><a href="https://arxiv.org/pdf/2004.01932" target="_blank">arxiv:2004.01932</a></span>  
 </div>
   </p>
   <p class="item__secondary-actions">
@@ -75,7 +75,7 @@
     <p>In this paper, we study the Turan number of 1-subdivision of $K_{3,t}$. More precisely, we provide
 an explicit construction $K_{3,30}'$-free graph, which makes progress on the known estimation for the smallest value of t concerning a problem posed by Conlon, Janzer and Lee. </p>
   <div class="item__primary-actions">
-    <span><a href="1214.pdf" target="_blank">PDF</a></span>  
+    <span><a href="https://arxiv.org/pdf/2002.06795" target="_blank">arxiv:2002.06795</a></span>  
 </div>
   </p>
   <p class="item__secondary-actions">
