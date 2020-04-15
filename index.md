@@ -197,7 +197,7 @@ number of the bad structures. </p>
 <h4> New Theoretical Bounds and Constructions of Permutation Codes under Block Permutation Metric</h4>
     <span>
       (with       
-        <a href="https://www.researchgate.net/profile/Yiwei_Zhang15" target="_blank">Yiwei Zhang</a>,  
+        <a href="http://faculty.sdu.edu.cn/ywzhang/zh_CN/zhym/992726/list/index.htm" target="_blank">Yiwei Zhang</a>,  
         <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
     </span>
   <p>
