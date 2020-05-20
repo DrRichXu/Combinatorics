@@ -146,12 +146,14 @@ number of the bad structures. </p>
  <div class="item__primary-actions">
     <span><a href="https://arxiv.org/pdf/1907.11909" target="_blank">arxiv:1907.11909</a></span>  
 </div>
+		<div class="item__primary-actions">
+ To appear:  European Journal of Combinatorics</a></span>  
+</div>
   </p>
   <p class="item__secondary-actions">
     
   </p>
 </article>
-
 <div class="items">      
         <article class="item">  
   <h4>Some extremal results on hypergraph Turán problems</h4>
