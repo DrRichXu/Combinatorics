@@ -49,8 +49,12 @@
  <div class="item__primary-actions">
     <span><a href="https://arxiv.org/pdf/2004.01932" target="_blank">arxiv:2004.01932</a></span>  
 </div>
+		<div class="item__primary-actions">
+Accepted by SIAM Journal on Discrete Mathematics
+</div>
   </p>
   <p class="item__secondary-actions">
+
     
   </p>
 </article>
@@ -147,7 +151,7 @@ number of the bad structures. </p>
     <span><a href="https://arxiv.org/pdf/1907.11909" target="_blank">arxiv:1907.11909</a></span>  
 </div>
 		<div class="item__primary-actions">
- To appear:  European Journal of Combinatorics</a></span>  
+ Published in:  <span><a href="https://doi.org/10.1016/j.ejc.2020.103161" target="_blank">European Journal of Combinatorics</a></span>  
 </div>
   </p>
   <p class="item__secondary-actions">
@@ -208,7 +212,7 @@ number of the bad structures. </p>
     <span><a href="https://arxiv.org/pdf/1811.04600" target="_blank">arxiv:1811.04600</a></span>  
 </div>
 <div class="item__primary-actions">
- To appear:  <span><a href="https://link.springer.com/article/10.1007/s10623-019-00641-w" target="_blank">Designs, Codes and Cryptography</a></span>  
+ Published in:  <span><a href="https://link.springer.com/article/10.1007/s10623-019-00641-w" target="_blank">Designs, Codes and Cryptography</a></span>  
 </div>
   </p>
   <p class="item__secondary-actions">
