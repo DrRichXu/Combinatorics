@@ -49,9 +49,7 @@
  <div class="item__primary-actions">
     <span><a href="https://arxiv.org/pdf/2004.01932" target="_blank">arxiv:2004.01932</a></span>  
 </div>
-		<div class="item__primary-actions">
-Accepted by SIAM Journal on Discrete Mathematics
-</div>
+
   </p>
   <p class="item__secondary-actions">
 
@@ -109,8 +107,12 @@ an explicit construction $K_{3,30}'$-free graph, which makes progress on the kno
   <div class="item__primary-actions">
     <span><a href="Erdos_Falconer_distance_problem_under_Hamming_metric.pdf" target="_blank">PDF</a></span>  
 </div>
+		<div class="item__primary-actions">
+ Accepted by:  <span>SIAM Journal on Discrete Mathematics</a></span>  
+</div>
   </p>
   <p class="item__secondary-actions">
+  
     
   </p>
 </article>
