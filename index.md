@@ -34,7 +34,7 @@
 	
 	
 	
-<h3>Publications</h3>
+<h2>Publications</h2>
 
  <div class="items">      
         <article class="item">   
@@ -111,7 +111,7 @@ number of the bad structures. </p>
 
 
 
-<h3>Preprints</h3>
+<h2>Preprints</h2>
 
 
 <div class="items">      
