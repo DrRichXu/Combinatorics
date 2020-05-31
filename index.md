@@ -32,7 +32,86 @@
       B.Sc., School of Mathematical Sciences
     </p>
 	
-<h3>Writing</h3>
+	
+	
+<h3>Publications</h3>
+
+ <div class="items">      
+        <article class="item">   
+  <h4>Erdos-Falconer distance problem under Hamming metric in vector spaces over finite fields</h4>
+    <span>
+      (with         
+        <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
+    </span>
+  <p>
+    <p> In this work, we consider the  Erdos-Falconer distance problem under Hamming distance, which is the most important metric in coding theory. We show a non-trivial bound for the threshold on the cardinality |I| so that ∆(I) contains a positive proportion of the whole distance set.</p>
+  <div class="item__primary-actions">
+    <span><a href="Erdos_Falconer_distance_problem_under_Hamming_metric.pdf" target="_blank">PDF</a></span>  
+</div>
+		<div class="item__primary-actions">
+ Accepted by:  <span>SIAM Journal on Discrete Mathematics</span>  
+</div>
+  </p>
+  <p class="item__secondary-actions">
+  
+    
+  </p>
+</article>
+
+
+<div class="items">      
+        <article class="item">   
+  <h4>Some tight lower bounds for Turán problems via constructions of multi-hypergraphs</h4>
+    <span>
+      (with       
+        <a href="https://zhant220.github.io/homepage/" target="_blank">Tao Zhang</a>,  
+        <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
+    </span>
+  <p>
+    <p> In this work, we use the random algebraic method to construct several multi-hypergraphs. There are three major ingredients. First, the random multi-hypergraph is the union of several random hypergraphs, which are defined by some bounded-degree random
+polynomials. Hence we can estimate the expectation of number of single edges and multiple edges, respectively. Second, due to the independence between different random hypergraphs, we can easily estimate the expectation of number of some structures, though the edges of such structures in multihypergraph are from distinct original random hypergraphs. The third ingredient is that, the random hypergraphs are defined by bounded-degree polynomials, we can define the bad structure in multi-hypergraph properly. Regarding the set of bad structures as variety and combining the Markov’s inequality, we can bound the expectation of
+number of the bad structures. </p>
+ <div class="item__primary-actions">
+    <span><a href="https://arxiv.org/pdf/1907.11909" target="_blank">arxiv:1907.11909</a></span>  
+</div>
+		<div class="item__primary-actions">
+ Published in:  <span><a href="https://doi.org/10.1016/j.ejc.2020.103161" target="_blank">European Journal of Combinatorics</a></span>  
+</div>
+  </p>
+  <p class="item__secondary-actions">
+    
+  </p>
+</article>
+
+
+<div class="items">     
+        <article class="item">  
+<h4> New Theoretical Bounds and Constructions of Permutation Codes under Block Permutation Metric</h4>
+    <span>
+      (with       
+        <a href="http://faculty.sdu.edu.cn/ywzhang/zh_CN/zhym/992726/list/index.htm" target="_blank">Yiwei Zhang</a>,  
+        <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
+    </span>
+  <p>
+    <p> Permutation codes under different metrics have been extensively studied due to their potentials in various applications. In this paper, we focus on the theoretical bounds of C(n,d) and the constructions of permutation codes under block permutation metric.</p>
+ <div class="item__primary-actions">
+    <span><a href="https://arxiv.org/pdf/1811.04600" target="_blank">arxiv:1811.04600</a></span>  
+</div>
+<div class="item__primary-actions">
+ Published in:  <span><a href="https://link.springer.com/article/10.1007/s10623-019-00641-w" target="_blank">Designs, Codes and Cryptography</a></span>  
+</div>
+  </p>
+  <p class="item__secondary-actions">
+    
+  </p>
+</article>
+
+
+
+
+
+
+<h3>Preprints</h3>
 
 
 <div class="items">      
@@ -95,27 +174,7 @@ an explicit construction $K_{3,30}'$-free graph, which makes progress on the kno
 
 
 
- <div class="items">      
-        <article class="item">   
-  <h4>Erdos-Falconer distance problem under Hamming metric in vector spaces over finite fields</h4>
-    <span>
-      (with         
-        <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
-    </span>
-  <p>
-    <p> In this work, we consider the  Erdos-Falconer distance problem under Hamming distance, which is the most important metric in coding theory. We show a non-trivial bound for the threshold on the cardinality |I| so that ∆(I) contains a positive proportion of the whole distance set.</p>
-  <div class="item__primary-actions">
-    <span><a href="Erdos_Falconer_distance_problem_under_Hamming_metric.pdf" target="_blank">PDF</a></span>  
-</div>
-		<div class="item__primary-actions">
- Accepted by:  <span>SIAM Journal on Discrete Mathematics</a></span>  
-</div>
-  </p>
-  <p class="item__secondary-actions">
-  
-    
-  </p>
-</article>
+
 
 
    <div class="items">      
@@ -137,29 +196,7 @@ an explicit construction $K_{3,30}'$-free graph, which makes progress on the kno
   </p>
 </article>
 
-<div class="items">      
-        <article class="item">   
-  <h4>Some tight lower bounds for Turán problems via constructions of multi-hypergraphs</h4>
-    <span>
-      (with       
-        <a href="https://zhant220.github.io/homepage/" target="_blank">Tao Zhang</a>,  
-        <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
-    </span>
-  <p>
-    <p> In this work, we use the random algebraic method to construct several multi-hypergraphs. There are three major ingredients. First, the random multi-hypergraph is the union of several random hypergraphs, which are defined by some bounded-degree random
-polynomials. Hence we can estimate the expectation of number of single edges and multiple edges, respectively. Second, due to the independence between different random hypergraphs, we can easily estimate the expectation of number of some structures, though the edges of such structures in multihypergraph are from distinct original random hypergraphs. The third ingredient is that, the random hypergraphs are defined by bounded-degree polynomials, we can define the bad structure in multi-hypergraph properly. Regarding the set of bad structures as variety and combining the Markov’s inequality, we can bound the expectation of
-number of the bad structures. </p>
- <div class="item__primary-actions">
-    <span><a href="https://arxiv.org/pdf/1907.11909" target="_blank">arxiv:1907.11909</a></span>  
-</div>
-		<div class="item__primary-actions">
- Published in:  <span><a href="https://doi.org/10.1016/j.ejc.2020.103161" target="_blank">European Journal of Combinatorics</a></span>  
-</div>
-  </p>
-  <p class="item__secondary-actions">
-    
-  </p>
-</article>
+
 <div class="items">      
         <article class="item">  
   <h4>Some extremal results on hypergraph Turán problems</h4>
@@ -200,27 +237,7 @@ number of the bad structures. </p>
   </p>
 </article>
 
-<div class="items">     
-        <article class="item">  
-<h4> New Theoretical Bounds and Constructions of Permutation Codes under Block Permutation Metric</h4>
-    <span>
-      (with       
-        <a href="http://faculty.sdu.edu.cn/ywzhang/zh_CN/zhym/992726/list/index.htm" target="_blank">Yiwei Zhang</a>,  
-        <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
-    </span>
-  <p>
-    <p> Permutation codes under different metrics have been extensively studied due to their potentials in various applications. In this paper, we focus on the theoretical bounds of C(n,d) and the constructions of permutation codes under block permutation metric.</p>
- <div class="item__primary-actions">
-    <span><a href="https://arxiv.org/pdf/1811.04600" target="_blank">arxiv:1811.04600</a></span>  
-</div>
-<div class="item__primary-actions">
- Published in:  <span><a href="https://link.springer.com/article/10.1007/s10623-019-00641-w" target="_blank">Designs, Codes and Cryptography</a></span>  
-</div>
-  </p>
-  <p class="item__secondary-actions">
-    
-  </p>
-</article>
+
 
 <h3>Talk</h3>
 
