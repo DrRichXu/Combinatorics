@@ -116,6 +116,50 @@ number of the bad structures. </p>
 
 <div class="items">      
         <article class="item">   
+  <h4>Hadwiger--Nelson type problems in binary Hamming space</h4>
+    <span>
+      (with       
+        <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
+    </span>
+  <p>
+    <p> The binary Hamming space consists of all points in {0,1}^n, and the Hamming
+distance between two points are the number of corresponding coordinates they differ.
+Let c(n) be the smallest number of colors sufficient for coloring the points of the
+binary Hamming space, such that there is no monochromatic equilateral triangle under
+Hamming metric. We prove that c(n) increases exponentially with n as n tends to infinty. Moreover, we show the quantitative bounds via the slice rank method and the celebrated Lovasz Local Lemma. </p>
+ <div class="item__primary-actions">
+    <span>In preprintion</span>  
+</div>
+
+  </p>
+  <p class="item__secondary-actions">
+
+    
+  </p>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="items">      
+        <article class="item">   
   <h4>Color isomorphic even cycles and a related Ramsey problem</h4>
     <span>
       (with       
