@@ -21,11 +21,12 @@
    <h3> Research interests</h3>
     <p>
 	    
-	<h4>Additive combinatorics: I am interested in the regularity lemma and its applications, in particular, sparse regularity. Slice rank method is one of the advanced ideas I have used in my paper. </h4>        
-      <h4>Extremal combinatorics: I am familiar with Turán problems of graphs (also hypergraphs), especially I still try to solve the famous rational Turán exponent conjecture. Recently I try to improve some results on Ramsey problems such as generalized Ramsey number, on-line Ramsey number, diagonal Ramsey number and strong Ramsey game. Some new techniques are interesting such as stepping-up method, quasirandomness. My favorite tool in extremal combinatorics is the celebrated Depdennt Random Choice, especially in its applications for Ramsey and Turán type problems of sparse graphs. Moreover, I am proficient in random algebraic method. </h4>
-      <h4>Theoretical Computer Science and Coding Theory: I am familiar with the following topics such like designs of coded caching schemes, permutation codes with different metric and property test for graphs (also, hypergraphs, geometric configurations).  </h4>
-      <h4>Discrete geometry: Recently, I sometimes study some geometric problems in Hamming space such as Erdos-Falconer distance type problem and Hadwiger-Nelson type problem. I often combine the advantages of coding theory, number theory and extremal combinatorics in such problems. Another thing I am interested is the elegant polynomial method with non-standard analysis. </h4>
-        </p>
+	Additive combinatorics: I am interested in the regularity lemma and its applications, in particular, sparse regularity. Slice rank method is one of the advanced ideas I have used in my paper.       
+      Extremal combinatorics: I am familiar with Turán problems of graphs (also hypergraphs), especially I still try to solve the famous rational Turán exponent conjecture. Recently I try to improve some results on Ramsey problems such as generalized Ramsey number, on-line Ramsey number, diagonal Ramsey number and strong Ramsey game. Some new techniques are interesting such as stepping-up method, quasirandomness. My favorite tool in extremal combinatorics is the celebrated Depdennt Random Choice, especially in its applications for Ramsey and Turán type problems of sparse graphs. Moreover, I am proficient in random algebraic method. 
+      Theoretical Computer Science and Coding Theory: I am familiar with the following topics such like designs of coded caching schemes, permutation codes with different metric and property test for graphs (also, hypergraphs, geometric configurations).  
+      Discrete geometry: Recently, I sometimes study some geometric problems in Hamming space such as Erdos-Falconer distance type problem and Hadwiger-Nelson type problem. I often combine the advantages of coding theory, number theory and extremal combinatorics in such problems. Another thing I am interested is the elegant polynomial method with non-standard analysis. 
+       
+       </p>
 	
 <h3>Short CV</h3>
     <p>
