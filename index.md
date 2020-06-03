@@ -20,9 +20,9 @@
     </p>
    <h3> Research interests</h3>
     <h4>Additive combinatorics:</h4> I am interested in the regularity lemma and its applications, in particular, sparse regularity. Slice rank method is one of the advanced ideas I have used in my paper.       
-     <h4>Extremal combinatorics: </h4> I am familiar with Turán problems of graphs (also hypergraphs), especially I still try to solve the famous rational Turán exponent conjecture. Recently I try to improve some results on Ramsey problems such as generalized Ramsey number, on-line Ramsey number, diagonal Ramsey number and strong Ramsey game. Some new techniques are interesting such as stepping-up method, quasirandomness. My favorite tool in extremal combinatorics is the celebrated Depdennt Random Choice, especially in its applications for Ramsey and Turán type problems of sparse graphs. Moreover, I am proficient in random algebraic method. 
+     <h4>Extremal combinatorics: </h4> I am familiar with Turán problems of graphs (also hypergraphs), especially I still try to solve the famous rational Turán exponent conjecture. Recently I try to improve some results on Ramsey type problems such as generalized Ramsey number, on-line Ramsey number and strong Ramsey game. Some techniques are interesting such as stepping-up method, efficient quasirandomness. My favorite tool in extremal combinatorics is the celebrated Depdennt Random Choice, especially its applications for Ramsey and Turán type problems of sparse graphs. Moreover, I am proficient in random algebraic method. 
       <h4>Theoretical Computer Science and Coding Theory:</h4> I am familiar with the following topics such like designs of coded caching schemes, permutation codes with different metric and property test for graphs (also, hypergraphs, geometric configurations).  
-      <h4>Discrete geometry:</h4> Recently, I sometimes study some geometric problems in Hamming space such as Erdos-Falconer distance type problem and Hadwiger-Nelson type problem. I often combine the advantages of coding theory, number theory and extremal combinatorics in such problems. Another thing I am interested is the elegant polynomial method with non-standard analysis. 
+      <h4>Discrete geometry:</h4> Sometimes I focus on studying some geometric problems in Hamming space such as Erdos-Falconer distance type problem and Hadwiger-Nelson type problem. I prefer to combine the advantages of coding theory, number theory and extremal combinatorics in such problems. Another thing I am interested is the elegant polynomial method with non-standard analysis, however I have no exeperence with these problems.
        
        
 	
@@ -48,7 +48,7 @@
         <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
     </span>
   <p>
-    <p> In this work, we consider the  Erdos-Falconer distance problem under Hamming distance, which is the most important metric in coding theory. We show a non-trivial bound for the threshold on the cardinality |I| so that ∆(I) contains a positive proportion of the whole distance set.</p>
+    <p> In this work, we consider the  Erdos-Falconer distance problem under Hamming distance, which is the most important metric in coding theory. We show a non-trivial bound for the threshold on the cardinality |I| so that ∆(I) contains a positive proportion of the whole distance set. To prove our main result, we take advantage of some techniques from coding theory, extremal combinatorics (dependent random choice), and some results from number theory.</p>
   <div class="item__primary-actions">
     <span><a href="Erdos_Falconer_distance_problem_under_Hamming_metric.pdf" target="_blank">PDF</a></span>  
 </div>
@@ -74,7 +74,8 @@
   <p>
     <p> In this work, we use the random algebraic method to construct several multi-hypergraphs. There are three major ingredients. First, the random multi-hypergraph is the union of several random hypergraphs, which are defined by some bounded-degree random
 polynomials. Hence we can estimate the expectation of number of single edges and multiple edges, respectively. Second, due to the independence between different random hypergraphs, we can easily estimate the expectation of number of some structures, though the edges of such structures in multihypergraph are from distinct original random hypergraphs. The third ingredient is that, the random hypergraphs are defined by bounded-degree polynomials, we can define the bad structure in multi-hypergraph properly. Regarding the set of bad structures as variety and combining the Markov’s inequality, we can bound the expectation of
-number of the bad structures. </p>
+number of the bad structures.
+		As a corollary of our main results, we demonstrate sharpness of the constant in the famous Kovari–Sos–Turan theorem.</p>
  <div class="item__primary-actions">
     <span><a href="https://arxiv.org/pdf/1907.11909" target="_blank">arxiv:1907.11909</a></span>  
 </div>
@@ -97,7 +98,7 @@ number of the bad structures. </p>
         <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
     </span>
   <p>
-    <p> Permutation codes under different metrics have been extensively studied due to their potentials in various applications. In this paper, we focus on the theoretical bounds of C(n,d) and the constructions of permutation codes under block permutation metric.</p>
+    <p> Permutation codes under different metrics have been extensively studied due to their potentials in various applications. In this paper, we focus on the theoretical bounds of C(n,d) and the constructions of permutation codes under block permutation metric. The theoretical bounds rely on several different ideas from extremal graph theory and structural graph theory, and the idea of our constructions are from the constructions of constant weight codes.  </p>
  <div class="item__primary-actions">
     <span><a href="https://arxiv.org/pdf/1811.04600" target="_blank">arxiv:1811.04600</a></span>  
 </div>
@@ -275,7 +276,7 @@ an explicit construction $K_{3,30}'$-free graph, which makes progress on the kno
         <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
     </span>
   <p>
-    <p> In this work, we we consider the Turán problem under sum-edge-weight function and characterize the extremal structure of cilque-free graphs. Based on these results, we propose a generalized version of the Erdős-Stone theorem for weighted graphs under two types of vertex-induced weight functions.</p>
+    <p> In this work, we consider the Turán problem under sum-edge-weight function and characterize the extremal structure of cilque-free graphs. Based on these results, we propose a generalized version of the Erdős-Stone theorem for weighted graphs under two types of vertex-induced weight functions. We also show a stablity result of graphs closed to the extremal clique-free graphs.</p>
 <div class="item__primary-actions">
     <span><a href="https://arxiv.org/pdf/1812.11700" target="_blank">arxiv:1812.11700</a></span>  
 </div>
