@@ -40,6 +40,37 @@
 	
 <h2>Publications</h2>
 
+
+<div class="items">      
+        <article class="item">   
+  <h4>Color isomorphic even cycles and a related Ramsey problem</h4>
+    <span>
+      (with       
+        <a href="https://zhant220.github.io/homepage/" target="_blank">Tao Zhang</a>, 
+	    <a href="yifanjing.wordpress.com" target="_blank">Yifan Jing</a>,
+        <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
+    </span>
+  <p>
+    <p> In this work, we first study a new extremal problem recently posed by Conlon and Tyomkyn. Using algebraic properties of polynomials over finite fields, we give an explicit edge-coloring of a complete graph, such that we cannot find three vertex-disjoint color isomorphic cycles of length four. The methods we used in the edge-coloring may be of some independent interest. We also consider a related generalized Ramsey problem (bipartite version), we obtain some new lower bounds with a broad range of parameters.  </p>
+ <div class="item__primary-actions">
+    <span><a href="https://arxiv.org/pdf/2004.01932" target="_blank">arxiv:2004.01932</a></span>  
+</div>
+<div class="item__primary-actions">
+ Accepted by:  <span>SIAM Journal on Discrete Mathematics</span>  
+</div>
+  </p>
+  <p class="item__secondary-actions">
+
+    
+  </p>
+</article>
+
+
+
+
+
+
+
  <div class="items">      
         <article class="item">   
   <h4>Erdos-Falconer distance problem under Hamming metric in vector spaces over finite fields</h4>
@@ -163,27 +194,6 @@ Hamming metric. We prove that c(n) increases exponentially with n as n tends to 
 
 
 
-<div class="items">      
-        <article class="item">   
-  <h4>Color isomorphic even cycles and a related Ramsey problem</h4>
-    <span>
-      (with       
-        <a href="https://zhant220.github.io/homepage/" target="_blank">Tao Zhang</a>, 
-	    <a href="yifanjing.wordpress.com" target="_blank">Yifan Jing</a>,
-        <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
-    </span>
-  <p>
-    <p> In this work, we first study a new extremal problem recently posed by Conlon and Tyomkyn. Using algebraic properties of polynomials over finite fields, we give an explicit edge-coloring of a complete graph, such that we cannot find three vertex-disjoint color isomorphic cycles of length four. The methods we used in the edge-coloring may be of some independent interest. We also consider a related generalized Ramsey problem (bipartite version), we obtain some new lower bounds with a broad range of parameters.  </p>
- <div class="item__primary-actions">
-    <span><a href="https://arxiv.org/pdf/2004.01932" target="_blank">arxiv:2004.01932</a></span>  
-</div>
-
-  </p>
-  <p class="item__secondary-actions">
-
-    
-  </p>
-</article>
 
 
 
