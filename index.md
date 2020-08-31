@@ -19,10 +19,7 @@
 	 <a href="http://math.cnu.edu.cn//tzygg/yjsjy1/164993.htm" target="_blank">2019-2020 National Scholarship for Outstanding Doctor Student</a>  
     </p>
    <h3> Research interests</h3>
-    <h4>Additive combinatorics:</h4> I am interested in the regularity lemma and its applications, in particular, sparse regularity. Slice rank method is one of the advanced ideas I have used in my paper.       
-     <h4>Extremal combinatorics: </h4> I am familiar with Turán problems of graphs (also hypergraphs), especially I still try to solve the famous rational Turán exponent conjecture. Recently I try to improve some results on Ramsey type problems such as generalized Ramsey number, on-line Ramsey number and strong Ramsey game. Some techniques are interesting such as stepping-up method, efficient quasirandomness. My favorite tool in extremal combinatorics is the celebrated Depdennt Random Choice, especially its applications for Ramsey and Turán type problems of sparse graphs. Moreover, I am proficient in random algebraic method. 
-      <h4>Theoretical Computer Science and Coding Theory:</h4> I am familiar with the following topics such like designs of coded caching schemes, permutation codes with different metric and property test for graphs (also, hypergraphs, geometric configurations).  
-      <h4>Discrete geometry:</h4> Sometimes I focus on studying some geometric problems in Hamming space such as Erdos-Falconer distance type problem and Hadwiger-Nelson type problem. I prefer to combine the advantages of coding theory, number theory and extremal combinatorics in such problems. Another thing I am interested is the elegant polynomial method with non-standard analysis, however I have no exeperence with these problems.
+    Additive Combinatorics, Coding Theory, Discrete Geometry, Extremal Combinatorics, Theoretical Computer Science.
        
        
 	
@@ -36,7 +33,7 @@
       B.Sc., School of Mathematical Sciences
     </p>
 	
-	
+For a full CV, see <a href="cv202009.pdf" target="_blank">here</a>. There are also some research statements of mine.	
 	
 <h2>Publications</h2>
 
@@ -148,6 +145,43 @@ number of the bad structures.
 
 
 <h2>Preprints</h2>
+
+
+<div class="items">      
+        <article class="item">   
+  <h4>On color isomorphic subdivisions</h4>
+    <span>
+      (with       
+        <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
+    </span>
+  <p>
+    <p> We prove that, in any proper coloring of a complete graph K_n if there are more than cn^{1+1/(2t-3)} colors with some constant c>0, then we can always find two vertex disjoint and color isomorphic copies of the 1-subdivision of complete graph K_t. This result answers a question of Conlon and Tyomkyn.   </p>
+ <div class="item__primary-actions">
+    <span>In preprintion</span>  
+</div>
+
+  </p>
+  <p class="item__secondary-actions">
+
+    
+  </p>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <div class="items">      
