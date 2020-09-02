@@ -78,7 +78,7 @@ For a full CV, see <a href="cv202009.pdf" target="_blank">here</a>. There are al
   <p>
     <p> In this work, we consider the  Erdos-Falconer distance problem under Hamming distance, which is the most important metric in coding theory. We show a non-trivial bound for the threshold on the cardinality |I| so that ∆(I) contains a positive proportion of the whole distance set. To prove our main result, we take advantage of some techniques from coding theory, extremal combinatorics (dependent random choice), and some results from number theory.</p>
   <div class="item__primary-actions">
-    <span><a href="Erdos_Falconer_distance_problem_under_Hamming_metric.pdf" target="_blank">PDF</a></span>  
+    <span><a href="Erdos_Falconer.pdf" target="_blank">PDF</a></span>  
 </div>
 		<div class="item__primary-actions">
  Accepted by:  <span>SIAM Journal on Discrete Mathematics</span>  
