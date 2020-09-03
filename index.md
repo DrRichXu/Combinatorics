@@ -157,16 +157,13 @@ number of the bad structures.
   <p>
     <p> We prove that, in any proper coloring of a complete graph K_n if there are more than cn^{1+1/(2t-3)} colors with some constant c>0, then we can always find two vertex disjoint and color isomorphic copies of the 1-subdivision of complete graph K_t. This result answers a question of Conlon and Tyomkyn.   </p>
  <div class="item__primary-actions">
-    <span>In preprintion</span>  
+    <span><a href="https://arxiv.org/pdf/2009.01074" target="_blank">arxiv:2009.01074</a></span>  
 </div>
-
   </p>
   <p class="item__secondary-actions">
-
     
   </p>
 </article>
-
 
 
 
