@@ -354,10 +354,16 @@ an explicit construction $K_{3,30}'$-free graph, which makes progress on the kno
 
 <h3>Talk</h3>
 
- <p><a href="https://www.hubu.edu.cn/info/1316/30867.htm" target="_blank">6-th International Conference of Coding, Cryptography and Combinatorics.</a> New theoretical bounds and constructions of permutation codes under block permutation metric. May, 2019 </p>
- <p><a href="http://dimacs.fzu.edu.cn/ReadNews.asp?NewsID=1429" target="_blank">2019 Conference on Combinatorial Mathematics and Graph Theory.</a> Some extremal results on hypergraph Turan problems, June, 2019.</p>
- <p><a href="https://www.bilibili.com/video/BV1n54y1k7EY?from=search&seid=12406358348923389711" target="_blank">Invited talk in Taiyuan University of Technology.</a> On color isomorphic patterns in proper colorings. Oct, 2020. </p>
- <p><a href="SDUtalk.jpg" target="_blank">Invited talk in Shandong University.</a> A breif introduction to the random algebraic method. Oct, 2020. </p>
+ <p><a href="https://www.hubu.edu.cn/info/1316/30867.htm" target="_blank">6-th International Conference of Coding, Cryptography and Combinatorics.</a> New theoretical bounds and constructions of permutation codes under block permutation metric. 25 min， May, 2019 </p>
+ <p><a href="http://dimacs.fzu.edu.cn/ReadNews.asp?NewsID=1429" target="_blank">2019 Conference on Combinatorial Mathematics and Graph Theory.</a> Some extremal results on hypergraph Turan problems, 15 min， June, 2019.</p>
+ <p><a href="https://www.bilibili.com/video/BV1n54y1k7EY?from=search&seid=12406358348923389711" target="_blank">Invited talk in Taiyuan University of Technology.</a> On color isomorphic patterns in proper colorings. 60min， Oct, 2020. </p>
+ <p><a href="SDUtalk.jpg" target="_blank">Invited talk in Shandong University.</a> A breif introduction to the random algebraic method. 90 min， Oct, 2020. </p>
+ 
+ <p><a href="https://mp.weixin.qq.com/s/a8aeHPlRuMsikUSJzqTidg" target="_blank">Talk in Tingshua University.</a> On color isomorphic patterns in proper colorings. 25 min，April, 2021。 </p>
+ 
+ <p><a href="https://www.csiam.org.cn/home/article/detail/id/1509.html" target="_blank">The 10th International Symposium on Finite Fields and Their Applications. </a> Erdos-Falconer distance problem under Hamming metric in vector spaces over finite fields. 25 min, May, 2021. </p>
+ 
+ <p><a href="https://mp.weixin.qq.com/s/zgvs40fuFqZzjBhBxV-Zag" target="_blank">Talk in Academy of Mathematics and Systems Science, Chinese Academy of Sciences.</a>  Erdos-Falconer distance problem under Hamming metric. 35 min, June, 2021. </p>
  
  
 <h3>Contact</h3>
