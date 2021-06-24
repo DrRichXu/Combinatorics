@@ -33,7 +33,7 @@
       B.Sc., School of Mathematical Sciences
     </p>
 	
-For a full CV, see <a href="cv202009.pdf" target="_blank">here</a>. There are also some research statements of mine.	
+For a full CV, see <a href="cv202009.pdf" target="_blank">here</a>，last updated in September, 2020. There are also some research statements of mine.	
 	
 <h2>Publications</h2>
 
