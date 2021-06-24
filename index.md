@@ -146,6 +146,31 @@ number of the bad structures.
 
 <h2>Preprints</h2>
 
+	
+	<div class="items">      
+        <article class="item">   
+  <h4>Embedding bipartite distance graphs under Hamming
+metric in finite fields</h4>
+    <span>
+      (with       
+	    <a href="https://www.researchgate.net/profile/Yu-Wenjun" target="_blank">Wenjun Yu</a>,
+        <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
+    </span>
+  <p>
+    <p> In this work, The question we will be dealing
+with in this paper is that, for a given graph H, how large the size of a subset $A\subseteq\mathbb{F}_{q}^{n}$ is, such
+that A contains a positive proportion of all possible isometric copies of H.  </p>
+<div class="item__primary-actions">
+    <span><a href="https://arxiv.org/pdf/2009.01074" target="_blank">arxiv:2009.01074</a></span>  
+</div>
+  </p>
+  <p class="item__secondary-actions">
+    
+  </p>
+</article>
+
+	
+	
 
 <div class="items">      
         <article class="item">   
@@ -331,8 +356,8 @@ an explicit construction $K_{3,30}'$-free graph, which makes progress on the kno
 
 <h3>Talk</h3>
 
- <p><a href="https://www.hubu.edu.cn/info/1316/30867.htm" target="_blank">6-th International Conference of Coding, Cryptography and Combinatorics.</a></p>
- <p><a href="http://dimacs.fzu.edu.cn/ReadNews.asp?NewsID=1429" target="_blank">2019 Conference on Combinatorial Mathematics and Graph Theory</a></p>
+ <p><a href="https://www.hubu.edu.cn/info/1316/30867.htm" target="_blank">6-th International Conference of Coding, Cryptography and Combinatorics.</a> New theoretical bounds and constructions of permutation codes under block permutation metric. </p>
+ <p><a href="http://dimacs.fzu.edu.cn/ReadNews.asp?NewsID=1429" target="_blank">2019 Conference on Combinatorial Mathematics and Graph Theory</a> Some extremal results on hypergraph Turan problems</p>
 <h3>Contact</h3>
     <p>
       <strong>Email:</strong> 50511211@qq.com<br>
