@@ -25,7 +25,7 @@
 	
 <h3>Short CV</h3>
     <p>
-     Capital Normal University, September 2018 – <br>
+     Capital Normal University, September 2016 – <br>
       Ph.D., School of Mathematical Sciences (Advisor: <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>)
     </p>
     <p>
@@ -33,7 +33,7 @@
       B.Sc., School of Mathematical Sciences
     </p>
 	
-For a full CV, see <a href="cv202009.pdf" target="_blank">here</a>，last updated in September, 2020. There are also some research statements of mine.	
+For a full CV, see <a href="main.pdf" target="_blank">here</a>，last updated in Feb, 2022.	
 	
 <h2>Publications</h2>
 
@@ -48,7 +48,7 @@ For a full CV, see <a href="cv202009.pdf" target="_blank">here</a>，last update
         <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
     </span>
   <p>
-    <p> In this work, we first study a new extremal problem recently posed by Conlon and Tyomkyn. Using algebraic properties of polynomials over finite fields, we give an explicit edge-coloring of a complete graph, such that we cannot find three vertex-disjoint color isomorphic cycles of length four. The methods we used in the edge-coloring may be of some independent interest. We also consider a related generalized Ramsey problem (bipartite version), we obtain some new lower bounds with a broad range of parameters.  </p>
+    <p> In this work, we first study a new extremal problem recently posed by Conlon and Tyomkyn. Using algebraic properties of polynomials over finite fields, we give an explicit edge-coloring of a complete graph, such that we cannot find three vertex-disjoint color isomorphic cycles of length four. The methods we used in the edge-coloring may be of some independent interest.  </p>
  <div class="item__primary-actions">
     <span><a href="https://arxiv.org/pdf/2004.01932" target="_blank">arxiv:2004.01932</a></span>  
 </div>
@@ -57,16 +57,9 @@ For a full CV, see <a href="cv202009.pdf" target="_blank">here</a>，last update
 </div>
   </p>
   <p class="item__secondary-actions">
-
-    
   </p>
 </article>
-
-
-
-
-
-
+	
 
  <div class="items">      
         <article class="item">   
