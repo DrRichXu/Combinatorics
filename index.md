@@ -13,20 +13,22 @@
       <img src="XzxMarriage.png">
     </figure>
     <p class="description">
-      School of Mathematics Science<br>
-      Capital Normal University<br>
-	    A member of <a href="http://staff.ustc.edu.cn/~drzhangx/group-chn/default.html" target="_blank">Combinatorics and Information Theory</a><br>
-	 <a href="http://math.cnu.edu.cn//tzygg/yjsjy1/164993.htm" target="_blank">2019-2020 National Scholarship for Outstanding Doctor Student</a>  
-    </p>
+      Extremal Combinatorics and Probability Group<br>
+      Institute for Basic Science<br>
+	   
    <h3> Research interests</h3>
-    Additive Combinatorics, Coding Theory, Discrete Geometry, Extremal Combinatorics, Theoretical Computer Science.
+    Algebraic methods and probabilistic methods in Extremal Combinatorics and related fields.
        
        
 	
 <h3>Short CV</h3>
+	 <p>
+     Institute for Basic Science, September 2022 – <br>
+      Research Fellow, Extremal Combinatorics and Probability Group 
+    </p>
     <p>
-     Capital Normal University, September 2016 – <br>
-      Ph.D., School of Mathematical Sciences (Advisor: <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>)
+     Capital Normal University, September 2016 – June 2022<br>
+      Ph.D., School of Mathematical Sciences 
     </p>
     <p>
       Zhejiang University, September 2012 – June 2016<br>
@@ -35,7 +37,7 @@
 	
 For a full CV, see <a href="main.pdf" target="_blank">here</a>，last updated in Feb, 2022.	
 	
-<h2>Publications</h2>
+<h2>Selected papers</h2>
 
 
 <div class="items">      
@@ -110,59 +112,6 @@ number of the bad structures.
 </article>
 
 
-<div class="items">     
-        <article class="item">  
-<h4> New Theoretical Bounds and Constructions of Permutation Codes under Block Permutation Metric</h4>
-    <span>
-      (with       
-        <a href="http://faculty.sdu.edu.cn/ywzhang/zh_CN/zhym/992726/list/index.htm" target="_blank">Yiwei Zhang</a>,  
-        <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
-    </span>
-  <p>
-    <p> Permutation codes under different metrics have been extensively studied due to their potentials in various applications. In this paper, we focus on the theoretical bounds of C(n,d) and the constructions of permutation codes under block permutation metric. The theoretical bounds rely on several different ideas from extremal graph theory and structural graph theory, and the idea of our constructions are from the constructions of constant weight codes.  </p>
- <div class="item__primary-actions">
-    <span><a href="https://arxiv.org/pdf/1811.04600" target="_blank">arxiv:1811.04600</a></span>  
-</div>
-<div class="item__primary-actions">
- Published in:  <span><a href="https://link.springer.com/article/10.1007/s10623-019-00641-w" target="_blank">Designs, Codes and Cryptography</a></span>  
-</div>
-  </p>
-  <p class="item__secondary-actions">
-    
-  </p>
-</article>
-
-
-
-
-
-
-<h2>Preprints</h2>
-
- 
-  <h4>Embedding bipartite distance graphs under Hamming
-metric in finite fields</h4>
-    <span>
-      (with       
-	    <a href="https://www.researchgate.net/profile/Yu-Wenjun" target="_blank">Wenjun Yu</a>,
-        <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
-    </span>
-  <p>
-    <p> In this work, The question we will be dealing
-with in this paper is that, for a given graph H, how large the size of a subset $A\subseteq\mathbb{F}_{q}^{n}$ is, such
-that A contains a positive proportion of all possible isometric copies of H.  </p>
-<div class="item__primary-actions">
-    In preparation.
-</div>
-  </p>
-  <p class="item__secondary-actions">
-    
-  </p>
-</article>
-
-	
-	
-
 <div class="items">      
         <article class="item">   
   <h4>On color isomorphic subdivisions</h4>
@@ -180,128 +129,6 @@ that A contains a positive proportion of all possible isometric copies of H.  </
     
   </p>
 </article>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="items">      
-        <article class="item">   
-  <h4>Hadwiger--Nelson type problems in binary Hamming space</h4>
-    <span>
-      (with       
-        <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
-    </span>
-  <p>
-    <p> The binary Hamming space consists of all points in {0,1}^n, and the Hamming
-distance between two points are the number of corresponding coordinates they differ.
-Let c(n) be the smallest number of colors sufficient for coloring the points of the
-binary Hamming space, such that there is no monochromatic equilateral triangle under
-Hamming metric. We prove that c(n) increases exponentially with n as n tends to infinty. Moreover, we show the quantitative bounds via the slice rank method and the celebrated Lovasz Local Lemma. </p>
- <div class="item__primary-actions">
-    <span>In preprintion</span>  
-</div>
-
-  </p>
-  <p class="item__secondary-actions">
-
-    
-  </p>
-</article>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- <div class="items">      
-        <article class="item">   
-  <h4>On the Turan number of 1-subdivision of $K_{3,t}$</h4>
-    <span>
-      (with       
-        <a href="https://zhant220.github.io/homepage/" target="_blank">Tao Zhang</a>,  
-        <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
-    </span>
-  <p>
-    <p>In this paper, we study the Turan number of 1-subdivision of $K_{3,t}$. More precisely, we provide
-an explicit construction $K_{3,30}'$-free graph, which makes progress on the known estimation for the smallest value of t concerning a problem posed by Conlon, Janzer and Lee. </p>
-  <div class="item__primary-actions">
-    <span><a href="https://arxiv.org/pdf/2002.06795" target="_blank">arxiv:2002.06795</a></span>  
-</div>
-  </p>
-  <p class="item__secondary-actions">
-    
-  </p>
-</article>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-   <div class="items">      
-        <article class="item">   
-  <h4>3-uniform hypergraphs with few Berge paths of length three between any two vertices</h4>
-    <span>
-      (with       
-        <a href="https://zhant220.github.io/homepage/" target="_blank">Tao Zhang</a>,  
-        <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
-    </span>
-  <p>
-    <p> In this work, we determine the Turan number of 3-uniform Berge theta hypergraph when l=3 and t is relatively small.</p>
-  <div class="item__primary-actions">
-    <span><a href="https://arxiv.org/pdf/1908.01459" target="_blank">arxiv:1908.01459</a></span>  
-</div>
-  </p>
-  <p class="item__secondary-actions">
-    
-  </p>
-</article>
-
 
 <div class="items">      
         <article class="item">  
@@ -322,46 +149,95 @@ an explicit construction $K_{3,30}'$-free graph, which makes progress on the kno
   </p>
 </article>
 
-<div class="items">    
-        <article class="item">  
-  
-
-  <h4>On vertex-induced weighted Turán problems</h4>
-    <span>
-      (with       
-        <a href="yifanjing.wordpress.com" target="_blank">Yifan Jing</a>,  
-        <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
-    </span>
-  <p>
-    <p> In this work, we consider the Turán problem under sum-edge-weight function and characterize the extremal structure of cilque-free graphs. Based on these results, we propose a generalized version of the Erdős-Stone theorem for weighted graphs under two types of vertex-induced weight functions. We also show a stablity result of graphs closed to the extremal clique-free graphs.</p>
-<div class="item__primary-actions">
-    <span><a href="https://arxiv.org/pdf/1812.11700" target="_blank">arxiv:1812.11700</a></span>  
-</div>
-  </p>
-  <p class="item__secondary-actions">
-    
-  </p>
-</article>
+	
+	
 
 
 
-<h3>Talk</h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+<h3>Selected Talks</h3>
 
  <p><a href="https://www.hubu.edu.cn/info/1316/30867.htm" target="_blank">6-th International Conference of Coding, Cryptography and Combinatorics.</a> New theoretical bounds and constructions of permutation codes under block permutation metric. 25 min， May, 2019 </p>
- <p><a href="http://dimacs.fzu.edu.cn/ReadNews.asp?NewsID=1429" target="_blank">2019 Conference on Combinatorial Mathematics and Graph Theory.</a> Some extremal results on hypergraph Turan problems, 15 min， June, 2019.</p>
  <p><a href="https://www.bilibili.com/video/BV1n54y1k7EY?from=search&seid=12406358348923389711" target="_blank">Invited talk in Taiyuan University of Technology.</a> On color isomorphic patterns in proper colorings. 60min， Oct, 2020. </p>
  <p><a href="SDUtalk.jpg" target="_blank">Invited talk in Shandong University.</a> A breif introduction to the random algebraic method. 90 min， Oct, 2020. </p>
- 
  <p><a href="https://mp.weixin.qq.com/s/a8aeHPlRuMsikUSJzqTidg" target="_blank">Talk in Tingshua University.</a> On color isomorphic patterns in proper colorings. 25 min，April, 2021。 </p>
- 
  <p><a href="https://www.csiam.org.cn/home/article/detail/id/1509.html" target="_blank">The 10th International Symposium on Finite Fields and Their Applications. </a> Erdos-Falconer distance problem under Hamming metric in vector spaces over finite fields. 25 min, May, 2021. </p>
  
- <p><a href="https://mp.weixin.qq.com/s/zgvs40fuFqZzjBhBxV-Zag" target="_blank">Talk in Academy of Mathematics and Systems Science, Chinese Academy of Sciences.</a>  Erdos-Falconer distance problem under Hamming metric. 35 min, June, 2021. </p>
  
  
 <h3>Contact</h3>
     <p>
-      <strong>Email:</strong> 50511211@qq.com<br>
+      <strong>Email:</strong> zxxu8023@qq.com<br>
       
  
   
