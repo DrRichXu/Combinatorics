@@ -42,18 +42,19 @@ For a full CV, see <a href="main.pdf" target="_blank">here</a>，last updated in
 
 <div class="items">      
         <article class="item">   
-  <h4>Color isomorphic even cycles and a related Ramsey problem</h4>
+  <h4>Intersective sets over abelian groups </h4>
     <span>
       (with       
-        <a href="https://zhant220.github.io/homepage/" target="_blank">Tao Zhang</a>, 
-	    <a href="yifanjing.wordpress.com" target="_blank">Yifan Jing</a>,
-        <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
+        <a href="https://wdp.math.ubc.ca/user/2631" target="_blank">Chi Hoi Yip</a>,    
     </span>
   <p>
-    <p> In this work, we first study a new extremal problem recently posed by Conlon and Tyomkyn. Using algebraic properties of polynomials over finite fields, we give an explicit edge-coloring of a complete graph, such that we cannot find three vertex-disjoint color isomorphic cycles of length four. The methods we used in the edge-coloring may be of some independent interest.  </p>
+    <p> In this work, we mainly discuss the topic on intersective sets over ablian groups. The function D(G,J,N) is the maximum size of subset A of G^N such that A-A and J^N have no non-trivial intersection. We generalize and improve the relevant results by Alon and by
+Hegedus via building a bridge between this problem and cyclotomic polynomials. Our new results include:
+		(1)Finding infinitely many classes of groups G and subsets J, for which the upper bound by Alon and by Hegedus (using linear algebra method) can be improved exponentially. We also provide a systematical approach to searching such pair of G and J.
+		(2)When J={0,1}, G=F_{p}^{N}, we improve the previously known upper bound obtained by Huang-Klurman-Pohoata. The main tools for this part is Berry–Esseen theorem and a local limit theorem of Gnedenko in probability theory </p>
  
 <div class="item__primary-actions">
- Published in  <span>SIAM Journal on Discrete Mathematics</span>  
+	<span><a href="https://arxiv.org/pdf/2207.00053.pdf" target="_blank">arxiv:2207.00053</a></span>
 </div>
   </p>
   <p class="item__secondary-actions">
