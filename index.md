@@ -51,11 +51,9 @@ For a full CV, see <a href="main.pdf" target="_blank">here</a>，last updated in
     </span>
   <p>
     <p> In this work, we first study a new extremal problem recently posed by Conlon and Tyomkyn. Using algebraic properties of polynomials over finite fields, we give an explicit edge-coloring of a complete graph, such that we cannot find three vertex-disjoint color isomorphic cycles of length four. The methods we used in the edge-coloring may be of some independent interest.  </p>
- <div class="item__primary-actions">
-    <span><a href="https://arxiv.org/pdf/2004.01932" target="_blank">arxiv:2004.01932</a></span>  
-</div>
+ 
 <div class="item__primary-actions">
- Accepted by:  <span>SIAM Journal on Discrete Mathematics</span>  
+ Published in  <span>SIAM Journal on Discrete Mathematics</span>  
 </div>
   </p>
   <p class="item__secondary-actions">
@@ -72,11 +70,8 @@ For a full CV, see <a href="main.pdf" target="_blank">here</a>，last updated in
     </span>
   <p>
     <p> In this work, we consider the  Erdos-Falconer distance problem under Hamming distance, which is the most important metric in coding theory. We show a non-trivial bound for the threshold on the cardinality |I| so that ∆(I) contains a positive proportion of the whole distance set. To prove our main result, we take advantage of some techniques from coding theory, extremal combinatorics (dependent random choice), and some results from number theory.</p>
-  <div class="item__primary-actions">
-    <span><a href="Erdos_Falconer.pdf" target="_blank">PDF</a></span>  
-</div>
 		<div class="item__primary-actions">
- Accepted by:  <span>SIAM Journal on Discrete Mathematics</span>  
+ Published in <span>SIAM Journal on Discrete Mathematics</span>  
 </div>
   </p>
   <p class="item__secondary-actions">
@@ -99,9 +94,6 @@ For a full CV, see <a href="main.pdf" target="_blank">here</a>，last updated in
 polynomials. Hence we can estimate the expectation of number of single edges and multiple edges, respectively. Second, due to the independence between different random hypergraphs, we can easily estimate the expectation of number of some structures, though the edges of such structures in multihypergraph are from distinct original random hypergraphs. The third ingredient is that, the random hypergraphs are defined by bounded-degree polynomials, we can define the bad structure in multi-hypergraph properly. Regarding the set of bad structures as variety and combining the Markov’s inequality, we can bound the expectation of
 number of the bad structures.
 		As a corollary of our main results, we demonstrate sharpness of the constant in the famous Kovari–Sos–Turan theorem.</p>
- <div class="item__primary-actions">
-    <span><a href="https://arxiv.org/pdf/1907.11909" target="_blank">arxiv:1907.11909</a></span>  
-</div>
 		<div class="item__primary-actions">
  Published in:  <span><a href="https://doi.org/10.1016/j.ejc.2020.103161" target="_blank">European Journal of Combinatorics</a></span>  
 </div>
@@ -122,7 +114,7 @@ number of the bad structures.
   <p>
     <p> We prove that, in any proper coloring of a complete graph K_n if there are more than cn^{1+1/(2t-3)} colors with some constant c>0, then we can always find two vertex disjoint and color isomorphic copies of the 1-subdivision of complete graph K_t. This result answers a question of Conlon and Tyomkyn.   </p>
  <div class="item__primary-actions">
-    <span><a href="https://arxiv.org/pdf/2009.01074" target="_blank">arxiv:2009.01074</a></span>  
+   <span> Publised in Discrete Mathematics</span>
 </div>
   </p>
   <p class="item__secondary-actions">
@@ -141,7 +133,7 @@ number of the bad structures.
   <p>
     <p> In this work, we determine the Turan number of complete bipartite r-uniform hypergraphs. Moreover, we give a improved lower bound for the Turan number of complete 3-partite 3-uniform hypergraph K_{2,2,7}^{(3)} </p>
  <div class="item__primary-actions">
-    <span><a href="https://arxiv.org/pdf/1905.01685" target="_blank">arxiv:1905.01685</a></span>  
+    <span>Published in Science China Mathematics</span>  
 </div>
   </p>
   <p class="item__secondary-actions">
