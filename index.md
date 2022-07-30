@@ -35,7 +35,7 @@
       B.Sc., School of Mathematical Sciences
     </p>
 	
-For a full CV, see <a href="main.pdf" target="_blank">here</a>，last updated in Feb, 2022.	
+For a full CV, see <a href="main.pdf" target="_blank">here</a>，last updated in July, 2022.	
 	
 <h2>Selected papers</h2>
 
