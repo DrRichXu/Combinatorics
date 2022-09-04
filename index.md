@@ -13,9 +13,8 @@
       <img src="XzxMarriage.png">
     </figure>
     <p class="description">
-      <a href="https://www.ibs.re.kr/ecopro/" target="_blank"> Extremal Combinatorics and Probability Group<br>
-      Institute for Basic Science<br>
-	    
+      <a href="https://www.ibs.re.kr/ecopro/" target="_blank"> Extremal Combinatorics and Probability Group<br>     
+      Institute for Basic Science<br>    
 	IBS Office B313<br>
 	   
    <h3> Research interests</h3>
@@ -47,8 +46,7 @@ For a full CV, see <a href="main.pdf" target="_blank">here</a>，last updated in
   <h4>Intersective sets over abelian groups </h4>
     <span>
       (with  
-	    <a href="https://sites.google.com/view/kyle-chi-hoi-yip/home" target="_blank">Chi Hoi Yip</a>,
-            
+	    <a href="https://sites.google.com/view/kyle-chi-hoi-yip/home" target="_blank">Chi Hoi Yip</a>,        
     </span>
   <p>
     <p> In this work, we mainly discuss the topic on intersective sets over ablian groups. The function D(G,J,N) is the maximum size of subset A of G^N such that A-A and J^N have no non-trivial intersection. We generalize and improve the relevant results by Alon and by
