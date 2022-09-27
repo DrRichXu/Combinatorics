@@ -8,18 +8,7 @@
 ## Zixiang Xu
 	
 		
-  <div class="about">
-      
-    <p class="description">
-      <a href="https://www.ibs.re.kr/ecopro/" target="_blank"> Extremal Combinatorics and Probability Group</a>     
-      Institute for Basic Science<br>    
-	IBS Office B313<br>
-	   
-<h3> My new homepage</h3>
-	
-       <p class="description">
-      <a href="https://www.ibs.re.kr/ecopro/zixiangxu/" target="_blank"> </a>     
-      <br> 
+  My new homepage: https://www.ibs.re.kr/ecopro/zixiangxu/
 	
 
       
